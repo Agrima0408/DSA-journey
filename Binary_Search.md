@@ -21,7 +21,8 @@ It's about recognizing when a problem has a **search space** that can be divided
 
 The real challenge is not writing:
 
-```java
+---
+
 
 ## 🧩 Patterns Covered:
 | Problem                                 | Pattern                 | Difficulty |
@@ -31,6 +32,8 @@ The real challenge is not writing:
 | Search in Rotated Sorted Array          | Modified Binary Search  | Medium     |
 | Find Peak Element                       | Binary Search Pattern   | Medium     |
 | Koko Eating Bananas                     | Binary Search on Answer | Medium     |
+
+---
 
 ## The Vibe:
 
