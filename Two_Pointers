@@ -1,0 +1,19 @@
+# 👉 Two Pointers
+
+## Left 🤝 Right
+
+The technique where two pointers team up and save us from unnecessary loops. ✨
+
+Sometimes they start from opposite ends, sometimes they move together, but the goal is always the same:
+
+> Reduce the chaos. Find the pattern. Optimize the solution.
+
+### Approaches Covered:
+
+- Opposite Direction Pointers
+- Same Direction Pointers
+- Fast & Slow Pointers
+
+### The Vibe:
+
+"Why use O(n²) when two pointers can do the job? 👀"
