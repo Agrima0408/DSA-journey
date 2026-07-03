@@ -2,7 +2,7 @@ class Solution {
     public boolean canfinish(int[] piles, int speed , int h){
         int hours=0;
         for(int banana: piles){
-            hours+=(banana+speed-1)/speed;
+            hours+= Math.ceil((double)banana/speed);
             if(hours>h) return false;
         }
         return hours<=h;
