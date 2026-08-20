@@ -36,3 +36,7 @@ Given an alphanumeric string containing a mixture of letters and digits, perform
 **Input**
 ```text
 a1b2c3
+
+**Output**
+```text
+bca
