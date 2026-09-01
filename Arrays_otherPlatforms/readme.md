@@ -1,47 +1,121 @@
-# Find All Armstrong Numbers in a Range
+# 🚀 DSA Journey
 
-## Problem Statement
+Started this repo because I was tired of Googling **"How do I actually learn DSA?"** every other day.
 
-Given two integers `X` and `Y`, find all Armstrong numbers in the range `[X, Y)`.
+So instead of gatekeeping my journey, I'm documenting everything here—the wins, the bugs, the *"why is Binary Search everywhere?"* moments, and the patterns that finally started making sense.
 
-An **Armstrong number** is a number whose sum of each digit raised to the power of the total number of digits is equal to the number itself.
+If you're learning too, grab a seat. We're surviving this together. 🤝
 
-For example:
+---
 
-* `153 = 1³ + 5³ + 3³ = 153`
-* `9474 = 9⁴ + 4⁴ + 7⁴ + 4⁴ = 9474`
+## 💡 Why this Repository?
 
-If there are no Armstrong numbers in the given range, print `-1`.
+When I started learning DSA, I wasn't confused by the concepts alone—I was confused about **where to start, what to learn next, and which approach actually worked**.
 
-### Input
+This repository is a reflection of my learning journey. Every solution, note, and topic represents something that helped me become a better problem solver.
 
-Two integers `X` and `Y`.
+If you're just starting out, I hope this repository gives you the roadmap I wish I had when I began. Learning DSA doesn't have to be overwhelming—it just needs consistency, curiosity, and the right direction.
 
-### Output
+---
 
-Print all Armstrong numbers between `X` (inclusive) and `Y` (exclusive).
+## 🛠️ Language
 
-If no Armstrong number exists, print `-1`.
+* ☕ Java
 
-### Example
+---
 
-**Input:**
+## ⭐ Motto
+
+> *"debug. cry. repeat."*
+
+Because every accepted solution has a story behind it.
+
+---
+
+## 📂 Repository Structure
 
 ```text
-100 500
+DSA-Journey/
+│
+├── Arrays/
+├── Binary_Search/
+├── Two_Pointers/
+├── Sliding_Window/
+├── Stack/
+├── Queue/
+├── Linked_List/
+├── Trees/
+├── Graphs/
+├── Dynamic_Programming/
+├── Notes/
+└── README.md
 ```
 
-**Output:**
+---
+
+## 📖 Topics Covered
+
+* ✅ Arrays
+* ✅ Binary Search
+* ✅ Two Pointers
+* ⏳ Sliding Window
+* ⏳ Stack
+* ⏳ Queue
+* ⏳ Linked List
+* ⏳ Trees
+* ⏳ Binary Search Trees
+* ⏳ Heap / Priority Queue
+* ⏳ Graphs
+* ⏳ Dynamic Programming
+
+---
+
+## 📌 File Naming Convention
 
 ```text
-[153, 370, 371, 407]
+ProblemNumber_ProblemName.java
 ```
 
-### Constraints
+**Examples**
 
-* `1 ≤ X < Y ≤ 10^6`
-* The range may contain zero or more Armstrong numbers.
+```text
+704_Binary_Search.java
+15_3Sum.java
+875_Koko_Eating_Bananas.java
+```
 
-### Note
+---
 
-The range is **inclusive of `X` and exclusive of `Y`**.
+## 📚 What's Inside?
+
+Every solution may include:
+
+* 🏷️ Problem Number
+* 📌 Topic
+* 💭 Approach
+* ⏱️ Time Complexity
+* 💾 Space Complexity
+* ☕ Java Solution
+
+Example:
+
+```java
+// LeetCode 704
+// Topic: Binary Search
+// Difficulty: Easy
+//
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+
+class Solution {
+
+}
+```
+
+---
+
+## 🤝 Let's Learn Together
+
+If you're on a similar DSA journey, feel free to explore this repository, learn alongside me, or even suggest better approaches.
+
+Happy Coding! 🚀
