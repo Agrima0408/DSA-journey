@@ -12,6 +12,7 @@ class Solution {
        if (isAnagram(anagram.toString(), p)){
             list.add(left);
         }
+        
         //sliding window
        for(int right=p.length();right<s.length();right++){
         anagram.append(s.charAt(right));
